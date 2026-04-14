@@ -1,0 +1,13 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "plugin": [
+    "file:///Users/wujiewang/code/git-evolve"
+  ],
+  "skills": {
+    "paths": ["/Users/wujiewang/code/git-evolve/skills"]
+  },
+  "instructions": [
+    "/Users/wujiewang/code/git-evolve/CLAUDE.md",
+    "/Users/wujiewang/code/git-evolve/AGENTS.md"
+  ]
+}
